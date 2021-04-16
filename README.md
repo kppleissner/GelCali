@@ -1,5 +1,5 @@
 # GelCali
-Calibration of 2-dimensional electrophoresis gels  
+# Calibration of 2-dimensional electrophoresis gels  
 Linear regression of pI-axis  
 Logarithmic regression of Mr-axis  
 
